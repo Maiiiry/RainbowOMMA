@@ -112,3 +112,5 @@ def main(argv=None) -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+# Automated fix for issue #45: heal: a theme missing on an open agent browser is never re-applied and does not escalate (171 runs / ~3.5 days uncolored)
